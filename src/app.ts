@@ -13,7 +13,7 @@ import {BrowserModule} from '@angular/platform-browser'
 })
 export class App {
   name:string;
-  tstInfo = "OT: Hello this is a test :)";
+  tstInfo = "OT: Hello this is a test  by omt:)";
   
   constructor() {
     this.name = 'Angular2'
